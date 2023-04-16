@@ -22,7 +22,7 @@ baseurl: "/jekyll"
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /jekyll/:title/
+permalink: /:title/
 
 # Exclude these files from your production _site
 exclude:
