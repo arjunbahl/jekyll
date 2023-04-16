@@ -1,11 +1,11 @@
 ---
-- id: "mn74k24lc6a50lrdqyj6v22"
-- title: "Flutter App_v3"
-- desc: ""
-- updated: "1664964989115"
-- created: "1663962359558"
-- date: "2022-09-24"
-- categories: 
+id: "mn74k24lc6a50lrdqyj6v22"
+title: "Flutter App_v3"
+desc: ""
+updated: "1664964989115"
+created: "1663962359558"
+date: "2022-09-24"
+categories: 
   - "research"
 ---
 
@@ -113,31 +113,31 @@
 
 - Duality and polarity: "If I say I’m happy, that means I was sad at some point. Every positive thought even has a seed of a negative thought within it and vice versa, which is why a lot of greatness in life comes out of suffering. You have to view the negative before you can aspire to and appreciate the positive."
 
-“I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.”
+- I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.
 
-“I can accept failure, everyone fails at something. But I can't accept not trying.”
+- I can accept failure, everyone fails at something. But I can't accept not trying.
 
-“You must expect great things of yourself before you can do them.”
+- You must expect great things of yourself before you can do them.
 
-“Some people want it to happen, some wish it would happen, and others make it happen.”
+- Some people want it to happen, some wish it would happen, and others make it happen.
 
-“To be successful you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish. Stay reachable. Stay in touch. Don't isolate.”
+- To be successful you have to be selfish, or else you never achieve. And once you get to your highest level, then you have to be unselfish. Stay reachable. Stay in touch. Don't isolate.
 
-“If you quit ONCE it becomes a habit.Never quit!!!”
+- If you quit ONCE it becomes a habit.Never quit!!!
 
-“Never say never, because limits, like fears, are often just an illusion.”
+- Never say never, because limits, like fears, are often just an illusion.
 
-“Always turn a negative situation into a positive situation.”
+- Always turn a negative situation into a positive situation.
 
-“To learn to succeed, you must first learn to fail.”
+- To learn to succeed, you must first learn to fail.
 
-“If you do the work you get rewarded. There are no shortcuts in life.”
+- If you do the work you get rewarded. There are no shortcuts in life.
 
-“The minute you get away from fundamentals – whether its proper technique, work ethic or mental preparation – the bottom can fall out of your game, your schoolwork, your job, whatever you’re doing.”
+- The minute you get away from fundamentals – whether its proper technique, work ethic or mental preparation – the bottom can fall out of your game, your schoolwork, your job, whatever you’re doing.
 
-“Some people want it to happen, some wish it would happen, others make it happen.”
+- Some people want it to happen, some wish it would happen, others make it happen.
 
-“Failure is acceptable. but not trying is a whole different ball park.”
+- Failure is acceptable. but not trying is a whole different ball park.
 
 
 - I approach everything step by step….I had always set short-term goals. As I look back, each one of the steps or successes led to the next one. When I got cut from the varsity team as a sophomore in high school, I learned something. I knew I never wanted to feel that bad again….So I set a goal of becoming a starter on the varsity. That’s what I focused on all summer. When I worked on my game, that’s what I thought about. When it happened, I set another goal, a reasonable, manageable goal that I could realistically achieve if I worked hard enough….I guess I approached it with the end in mind. I knew exactly where I wanted to go, and I focused on getting there. As I reached those goals, they built on one another. I gained a little confidence every time I came through. …If [your goal is to become a doctor]…and you’re getting Cs in biology then the first thing you have to do is get Bs in biology and then As. You have to perfect the first step and then move on to chemistry or physics. Take those small steps. Otherwise you’re opening yourself up to all kinds of frustration. Where would your confidence come from if the only measure of success was becoming a doctor? If you tried as hard as you could and didn’t become a doctor, would that mean your whole life was a failure? Of course not. All those steps are like pieces of a puzzle. They all come together to form a picture….Not everyone is going to be the greatest….But you can still be considered a success….Step by step, I cant see any other way of accomplishing anything.
