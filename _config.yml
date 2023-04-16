@@ -9,7 +9,7 @@ domain: https://arjunbahl.github.io       # if you want to force HTTPS, specify 
 url: https://arjunbahl.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /jekyll/      # place folder name if the site is served in a subfolder
 
-permalink: /:title/
+permalink: /jekyll/:title/
 
 # Exclude these files from your production _site
 exclude:
