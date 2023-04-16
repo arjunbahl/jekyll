@@ -1,19 +1,8 @@
 ---
 id: "mn74k24lc6a50lrdqyj6v22"
 title: "Flutter App_v3"
-desc: ''
+desc: ""
 updated: "1664964989115"
-created: "1663962359558"
-date: "2022-09-24"
-categories: 
-  - "research"
----
-
----
-id: "1rijw49orkfuf2lyedat6vk"
-title: "Flutter App_v2"
-desc: ''
-updated: "1660635169555"
 created: "1663962359558"
 date: "2022-09-24"
 categories: 
